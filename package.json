@@ -1,0 +1,13 @@
+{
+  "name": "trello-doping",
+  "version": "1.0.0",
+  "description": "Remove Recently Viewed section from Trello app",
+  "main": "dope.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asar": "^3.0.3",
+    "npx": "^10.2.2"
+  }
+}

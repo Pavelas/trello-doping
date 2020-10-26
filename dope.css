@@ -1,0 +1,5 @@
+
+/* Hide Recently Viewed section */
+.content-all-boards > div:nth-child(2) {
+    display: none !important;
+}
